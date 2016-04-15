@@ -3,7 +3,7 @@
 This Material **start** project is a *seed* for AngularJS Material applications. The project contains a sample AngularJS application and is pre-configured to install the Angular framework and a bunch of development and testing tools for instant web development gratification.
 
 This sample application is intended to be useful as both a learning tool and a skeleton application
-for a typical [AngularJS Material](http://material.angularjs.org/) web app: comprised of a Side navigation
+for a typical [AngularJS Material] web app: comprised of a Side navigation
 area and a content area. You can use it to quickly bootstrap your AngularJS webapp projects and dev
 environment for these projects.
 
@@ -31,32 +31,7 @@ The repository contains both ES5 and ES6 versions of the application. Traditiona
 ES5 standards and solutions are presented here by default. Tutorials are included: step-by-step
 instructions that clearly demonstrate how the Starter application can be created in minutes.
 
-![Wireframe](https://cloud.githubusercontent.com/assets/210413/6444676/c247c8f8-c0c4-11e4-8206-208f55cbceee.png)
-
-> These tutorials have been presented live, on-stage at **ng-conf 2015, Utah**.
-
-Developers should checkout the following repository branches for:
-
-* Branch [**master**](https://github.com/angular/material-start): contains the finished, ES5, material-starter application.
-* Branch [**Starter - ES5 Tutorials**](https://github.com/angular/material-start/tree/es5-tutorial):
-contains the ES5 tutorials with development Lession #1 - #7.
-* Branch [**Starter - ES6** ](https://github.com/angular/material-start/tree/es6): same completed application as shown in the **[master](https://github.com/angular/material-start)** branch, but implemented with ES6 and JSPM (instead of the ES5 in master).
-
-> The **README** for the ES6 branch will provide some details showing how easy, <u>more simplifed</u>,
-and <u>more manageable</u> it is to develop ES6 applications with Angular Material 1.x. As time permits, we will expand on that information.<br/><br/> 
-
 ## Getting Started
-
-#### Prerequisites
-
-
-If you just want to start a new project without the material-start commit history then you can do:
-
-```bash
-git clone --depth=1 https://github.com/angular/material-start.git <your-project-name>
-```
-
-The `depth=1` tells git to only pull down one commit worth of historical data.
 
 #### Install Dependencies
 
