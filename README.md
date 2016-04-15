@@ -1,4 +1,4 @@
-# Angular Material-Start
+# Shaf Angular Material-Template
 
 This Material **start** project is a *seed* for AngularJS Material applications. The project contains a sample AngularJS application and is pre-configured to install the Angular framework and a bunch of development and testing tools for instant web development gratification.
 
@@ -14,11 +14,6 @@ experience that will be displayed for smaller device sizes. The responsive layou
 the user list, reveal the **menu** button. In the User Details view, you may also click the
 **share** button  to show the Contact &lt;User&gt; bottom sheet view.
 
-<br/>
-
-![material-starter-ux2](https://cloud.githubusercontent.com/assets/210413/6448551/70864488-c0e0-11e4-8767-c4e1e4c2f343.png)
-
-<br/>
 
 This Starter app demonstrates how:
 
@@ -54,25 +49,6 @@ and <u>more manageable</u> it is to develop ES6 applications with Angular Materi
 
 #### Prerequisites
 
-You will need **git** to clone the material-start repository. You can get git from
-[http://git-scm.com/](http://git-scm.com/).
-
-We also use a number of node.js tools to initialize and test material-start. You must have node.js and
-its package manager (npm) installed.  You can get them from [http://nodejs.org/](http://nodejs.org/).
-
-#### Clone material-start
-
-To get you started you can simply clone `master` branch from the
-[Material-Start](https://github.com/angular/material-start) repository and install the dependencies:
-
-> NOTE: The `master` branch contains the traditional, ES5 implementation familiar to Angular developers.
-
-Clone the material-start repository using [git][git]:
-
-```
-git clone https://github.com/angular/material-start.git
-cd material-start
-```
 
 If you just want to start a new project without the material-start commit history then you can do:
 
